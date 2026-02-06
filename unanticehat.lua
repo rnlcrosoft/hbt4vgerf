@@ -1,0 +1,1 @@
+workspace.PrivateServerSettings.AntiCheat.Value = false
