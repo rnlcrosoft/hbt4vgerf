@@ -731,5 +731,3 @@ end)
 RunService.RenderStepped:Connect(function()
     pcall(AimbotExecutor.execute)
 end)
-
-print("DONE!")
